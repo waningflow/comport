@@ -1,0 +1,12 @@
+{
+  "name": "comport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:waningflow/comport.git",
+  "author": "waningflow <jack1995woods@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^7.3.1",
+    "acorn-walk": "^7.2.0"
+  }
+}
